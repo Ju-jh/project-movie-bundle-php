@@ -1,6 +1,6 @@
 {
     "require": {
-        "php": "^7.2",
-        "Movie": "version"
+        "php": "^7.4",
+        "Movie": "^1.0" 
     }
 }

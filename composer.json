@@ -1,6 +1,6 @@
 {
     "require": {
         "php": "^8.0",
-        "vendor/package": "version"
+        "vendor/Frontend_PHP_Movie": "version"
     }
 }

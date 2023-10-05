@@ -1,6 +1,6 @@
 {
     "require": {
         "php": "^7.4",
-        "Movie": "^1.0" 
+        "vendor-name/package-name": "^1.0" 
     }
 }
